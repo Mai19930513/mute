@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">静音</string>
+    <string name="stopMute">取消静音并结束程序</string>
+    <string name="info">打开软件后将自动设置系统声音、来电铃声、媒体声音设置为静音模式，如需设置闹钟为静音状态，请手动勾选下方闹钟选框(即时生效)\n手动调节音量无效，可避免其他应用调整音量后发出声音，如需取消静音请点击下方取消静音按钮,取消静音后，将恢复原来的音量并退出程序.\n<b>PS:在运行软件中,手动关闭系统勿扰模式将会发出声音</b></string>
+    <string name="stream_system">系统声音</string>
+    <string name="stream_alarm">闹钟铃声</string>
+</resources>
